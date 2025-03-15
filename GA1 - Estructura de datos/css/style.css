@@ -1,0 +1,131 @@
+.btn{
+    border-color: #585937;
+    color: white;
+}
+
+.search-button {
+    background-color: #dc3545; 
+    border-color: #dc3545;
+    color: white;
+} 
+
+.exampleModalLabel{
+    padding: 2px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    background: linear-gradient(to right, #435957, #7D8166);
+    color: rgb(255, 255, 255);
+}
+.navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+.navbar li {
+    padding: 10px;
+}
+
+.navbar a {
+    color: white !important;
+}
+
+.dropdown-menu {
+    background: #585937;
+}
+.dropdown-menu a {
+    color: white !important;
+}
+
+.dropdown-menu a:hover {
+    background: #7D8166; 
+    color: white;
+}
+
+h1{
+    margin-top: 60px;
+    text-align: center;
+}
+
+#imageness{
+    width: 75px;
+    height: 75px;
+}
+
+.progress {
+    height: 60px;
+    font-size: x-large;
+}
+
+body{
+    background: linear-gradient(to right, #435957, #7D8166); 
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: medium;
+    padding-top: 20px;
+}
+
+.footer {
+    color: rgb(0, 0, 0);
+}
+
+.footer h5 {
+    font-weight: bold;
+}
+
+.footer .nav-link:hover {
+    color: #f0ffe4;
+}
+
+.footer .text-muted {
+    font-size: 14px;
+    color: white !important;
+}
+
+#btnsubs{
+    background-color: #cdd2f3;
+    color: black;
+    border-color: #b9c0e2;
+}
+
+.card{
+    margin: 15px;
+    background: #7D8166;
+    color: white;
+    font-size: large;
+}
+
+#accordionExample{
+    margin: 15px;
+}
+
+.accordion-item {
+    background-color: #585937;
+    border: none;
+}
+
+.accordion-button {
+    background-color: #435957;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: #394d4b;
+    color: white;
+}
+
+.accordion-body {
+    background-color: #435957;
+    color: white;
+    font-size: large;
+}
+
+#asd{
+    height: 300px;
+}
